@@ -1,0 +1,273 @@
+body {
+	background:#ffffff;
+	margin: 0 0 100px;
+	height:960px;
+}
+
+html {
+	position:relative;
+	min-height: 100%;
+}
+
+header, h1, h2, p {
+	font-family:'Georgia', "Times", "Times New Roman", "serif";
+
+	
+}
+
+
+
+.wrapper {
+	background-color: #fff2e6;
+	overflow: hidden;
+	margin:10px;
+	height:100%;
+}
+
+
+#overhead {
+	height:90px;
+	width:100%;
+	background-color: #ffffff;
+	border-bottom: solid #cccccc;
+	font-size: 18px;
+
+
+}
+
+#portfolio{
+	float:right;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top: 30px;
+	color:#777777;
+  }  
+
+#about {
+	
+	float:right;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 30px;
+	color:#777777;
+
+  }
+
+
+#contact1 {
+	
+	float:right;
+	margin-left: 10px;
+	margin-right: 320px;
+	margin-top: 30px;
+	color:#777777;
+  } 
+
+
+#name {
+	height:70px;
+	width:220px;
+	background-color: #4aaaa5;
+	color: white;
+	text-align: center;
+	padding:6px;
+	position: absolute;
+	top:-2px;
+	left:132px;
+	line-height: 75px;
+	
+}
+
+
+.aboutContainer {
+	height: 400px;
+	width:460px;
+	background-color: #ffffff;
+	margin-left: 124px;
+	margin-top:30px;
+	padding:20px;
+   	border: solid #dddddd;
+   	float:left;
+ }
+
+#profilePic {
+	float: left;
+	width:45%;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+#aboutme {
+	color:#4aaaa5;
+	border-bottom: solid #dddddd;
+	
+}
+
+ #aboutBody {
+ 	float:left;
+ 	width:45%;
+ 	background-color: white;
+ 	font-size: 18px;
+ 	color:#777777;
+}
+
+.social {
+	height:150px;
+	width:270px;
+	background-color: white;
+	margin-top: 30px;
+	margin-left:30px;
+	padding:20px;
+   	border: solid #dddddd;
+	float:left;
+	text-align: center;
+	color: #4aaaa5;
+}
+
+.connectbox {
+	border-top: solid #dddddd;
+}
+
+#connect {
+	color: #4aaaa5;
+}
+
+#git {
+	width:60px;
+	height:60px;
+	float:left;
+	margin-left: 25px;
+  }
+#linked {
+	width:60px;
+	height:60px;
+	float:left;
+	margin-left:10px;
+  }  
+
+ #stack {
+	width:60px;
+	height:60px;
+	float:left;
+	margin-left: 10px;
+  } 
+
+a, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+footer {
+	clear:both;
+	height:100px;
+	width:100%;
+	background-color: #666666;
+	font-size: 10px;
+	color:white;
+	text-align: center;
+	line-height: 100px;
+	position: absolute;
+	bottom:0;
+	left:0;
+	border-top: solid 5px #4aaaa5;
+}
+
+
+#contact2 {
+	color:#4aaaa5;
+	
+}
+
+.form {
+	padding:20px;
+	border-top: solid 1px #dddddd;
+	color:#777777;
+}
+
+input, text area {
+	margin-top: 8px;
+	padding:10px;
+	width: 395px;
+	
+}
+
+.submit input {
+	margin: 0px;
+	width:115px;
+	height: 45px;
+	margin-bottom:0px;
+	background-color: #4aaaa5;
+	color:white;
+	border: none;
+}
+
+textarea {
+	height:100px;
+	width:395px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+.aboutContainer2 {
+	height: 500px;
+	width:460px;
+	background-color: #ffffff;
+	margin-left: 124px;
+	margin-top:30px;
+	padding:20px;
+   	border: solid #dddddd;
+   	float:left;
+ }
+
+ .aboutContainer3 {
+	height: 100%;
+	width:460px;
+	background-color: #ffffff;
+	margin-left: 124px;
+	margin-top:30px;
+	padding:20px;
+   	border: solid #dddddd;
+   	float:left;
+ }
+
+ .box {
+ 	height:170px;
+ 	width:200px;
+ 	float: left;
+ 	padding:0px;
+ 	margin:10px;
+ 	margin-top: 20px;
+
+ }
+
+ #inner {
+ 	height:25%;
+ 	width:100%;
+ 	background-color: #4aaaa5;
+ 	color:white;
+ 	font-family: 'Georgia', "Times", "Times New Roman", "serif";
+ 	font-size: 20px;
+ 	text-align:center; 
+ 	line-height: 192%;
+ 	position: relative;
+ 	top:60%;
+ }
+
+ #porttimg {
+ 	height:100%;
+ 	width:100%;
+ }
+
+ .portbox{
+ 	height:100%;
+ 	width:100%;
+ 	padding:0px;
+ 	border-top: solid #dddddd;
+ 	text-align:center;
+
+ }
+
+ #contact3 {
+	color:#4aaaa5;
+	
+}

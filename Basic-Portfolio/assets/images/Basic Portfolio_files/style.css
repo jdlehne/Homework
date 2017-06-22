@@ -1,0 +1,77 @@
+body {
+	background: #fff2e6;
+	margin: 0 auto;
+}
+
+#overhead {
+	height:90px;
+	width:100%;
+	background-color: white;
+	
+}
+
+#name {
+	height:70px;
+	width:100px;
+	background-color: #4cb5aa;
+	color: white;
+	text-align: center;
+	padding:5px;
+	position: absolute;
+	top:9px;
+	left:70px;
+}
+
+
+.aboutContainer {
+	height: 400px;
+	width:40%;
+	background-color: white;
+	margin-left: 69px;
+	margin-top:10px;
+	padding:1px;
+   	border: solid #cad1ce;
+   	float:left;
+ }
+
+#profilePic {
+	float: left;
+	width:50%;
+	padding:10px;
+}
+ #aboutBody {
+ 	float:left;
+ 	width:50%;
+ 	background-color: white;
+}
+
+.social {
+	height:200px;
+	width:20%;
+	background-color: white;
+	margin-top: 10px;
+	margin-right: 10px;
+	padding:1px;
+   	border: solid #cad1ce;
+	float:right;
+	text-align: center;
+	color: #4cb5aa;
+}
+
+#git {
+	width:60px;
+	height:60px;
+	float:left;
+  }
+#linked {
+	width:60px;
+	height:60px;
+	float:left;
+  }  
+
+ #stack {
+	width:60px;
+	height:60px;
+	float:left;
+  } 
+
